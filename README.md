@@ -1,24 +1,16 @@
-## Available Scripts
+## gif-search-app-using-firebase-auth
 
-Run this to install dependencies
-```
-npm install
-```
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:8000](http://localhost:3000) to view it in the browser.
+Tech stack used : React.js, Firebase-Auth
+<br>
+Deployment Platofrm : Vercel
+<br>
+Main deployment link : https://firebase-auth-giphy.vercel.app/
 
 
-### `npm run build`
+Here, I have deployed my whole project task in with two different repositories. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1) Repo 1: https://github.com/meet2632/firebase-auth-giphy - Firebase auth of users
+2) Repo 2: https://github.com/meet2632/gif-searching-app - Giphy-search app
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+I have added the navigation of deployed link of giphy app in firebase auth repo code pre-deployment.
+The reason I was not able to integrate both parts in one project was a lot of errors arising and given the time of task completion, it was difficult for me to solve so I have created another project for authentication later on integrated separately with deployment to main task project of developing gif search app.
